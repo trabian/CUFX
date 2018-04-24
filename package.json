@@ -1,0 +1,12 @@
+{
+  "name": "CUFX",
+  "version": "1.0.0",
+  "repository": "https://github.com/dlacroix01/CUFX.git",
+  "devDependencies": {
+    "change-case": "^3.0.2",
+    "pug": "^2.0.3"
+  },
+  "scripts": {
+    "build": "node scripts/build-index.js"
+  }
+}
