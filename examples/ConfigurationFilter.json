@@ -1,0 +1,100 @@
+{
+  "configurationFilter": {
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "fiIdList": {
+      "currentPage": "1",
+      "totalPages": "1",
+      "pageSize": "1",
+      "positionIndex": "positionIndex1",
+      "returnPage": "1",
+      "returnPositionIndex": "returnPositionIndex1",
+      "fiId": "fiId1"
+    },
+    "serviceList": {
+      "currentPage": "1",
+      "totalPages": "1",
+      "pageSize": "1",
+      "positionIndex": "positionIndex1",
+      "returnPage": "1",
+      "returnPositionIndex": "returnPositionIndex1",
+      "service": {
+        "serviceName": "AccessProfile",
+        "protocol": "REST-XML",
+        "cufxVersion": "1.0.3",
+        "wsdlUri": "http://uri1",
+        "currencySupportList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "currencySupport": "AED"
+        },
+        "acceptLanguageList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "acceptLanguage": "acceptLanguage1"
+        },
+        "fieldNotSupportedList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "fieldNotSupported": {
+            "xsdFile": "xsdFile1",
+            "xsdXPath": "xsdXPath1",
+            "comment": "comment1"
+          }
+        },
+        "serviceTimeZoneUTOffset": "1",
+        "status": "Online",
+        "customDataUseList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "customDataUse": {
+            "xsdFile": "xsdFile1",
+            "xsdXPath": "xsdXPath1",
+            "name": "name1",
+            "comment": "comment1"
+          }
+        },
+        "methodList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "method": {
+            "methodName": "Create",
+            "uri": "http://uri1",
+            "methodDependencyList": {
+              "currentPage": "1",
+              "totalPages": "1",
+              "pageSize": "1",
+              "positionIndex": "positionIndex1",
+              "returnPage": "1",
+              "returnPositionIndex": "returnPositionIndex1",
+              "methodDependency": {
+                "serviceName": "AccessProfile",
+                "methodName": "methodName1",
+                "cufxVersion": "1.0.3"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

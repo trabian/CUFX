@@ -1,0 +1,231 @@
+{
+  "answerList": {
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "currentPage": "1",
+    "totalPages": "1",
+    "pageSize": "1",
+    "positionIndex": "positionIndex1",
+    "returnPage": "1",
+    "returnPositionIndex": "returnPositionIndex1",
+    "answer": {
+      "party": {
+        "id": "id1",
+        "taxInformationList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "taxInformation": {
+            "taxId": "taxId1",
+            "taxIdEncrypted": "true",
+            "taxIdType": "SocialSecurityNumber",
+            "otherTaxIdType": "otherTaxIdType1",
+            "reportingFlag": "true",
+            "verifiedTaxIdFlag": "true",
+            "taxIdWarningCount": "0",
+            "backupWithholdingFlag": "true",
+            "backupWithholdingReason": "backupWithholdingReason1",
+            "backupWithholdingExemptionReason": "ExceptFromWithholding",
+            "backupWithholdingEffectiveDate": "1900-01-01"
+          }
+        },
+        "type": "Individual",
+        "characteristics": {
+          "organization": {
+            "organizationType": "SoleProprietorship",
+            "organizationName": "organizationName1",
+            "doingBusinessAsList": {
+              "currentPage": "1",
+              "totalPages": "1",
+              "pageSize": "1",
+              "positionIndex": "positionIndex1",
+              "returnPage": "1",
+              "returnPositionIndex": "returnPositionIndex1",
+              "doingBusinessAs": {
+                "@xsi:nil": "true"
+              }
+            }
+          }
+        },
+        "identificationDocumentList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "identificationDocument": {
+            "@xsi:nil": "true"
+          }
+        },
+        "eligibilityRequirementMetList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "eligibilityRequirementMet": {
+            "@xsi:nil": "true"
+          }
+        },
+        "contactIdList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "contactId": "contactId1"
+        },
+        "contactList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "contact": {
+            "contactId": "contactId1",
+            "contactType": "Address",
+            "contactPersonName": {
+              "firstName": "firstName1",
+              "middleName": "middleName1",
+              "lastName": "lastName1",
+              "prefix": "prefix1",
+              "suffix": "suffix1",
+              "formattedName": "formattedName1",
+              "nickname": "nickname1"
+            },
+            "contactPoint": {
+              "address": {
+                "line1": "line11",
+                "line2": "line21",
+                "line3": "line31",
+                "line4": "line41",
+                "line5": "line51",
+                "line6": "line61",
+                "line7": "line71",
+                "line8": "line81",
+                "line9": "line91",
+                "line10": "line101",
+                "city": "city1",
+                "stateProvince": "stateProvince1",
+                "postalCode": "postalCode1",
+                "countryCode": "AD",
+                "country": "country1",
+                "coordinate": {
+                  "latitude": "1",
+                  "longitude": "1"
+                },
+                "addressType": "Home",
+                "effectiveDateTime": "1900-01-01T01:01:01Z",
+                "expirationDateTime": "1900-01-01T01:01:01Z",
+                "timeAtAddress": "P396DT1H1M1S",
+                "addressVerifyDateTime": "1900-01-01T01:01:01Z"
+              }
+            },
+            "timeOfDay": "Afternoon",
+            "demonstratedAccess": {
+              "dateTime": "1900-01-01T01:01:01Z",
+              "fullName": "fullName1",
+              "userName": "userName1"
+            },
+            "badContactPoint": "true",
+            "customData": {
+              "currentPage": "1",
+              "totalPages": "1",
+              "pageSize": "1",
+              "positionIndex": "positionIndex1",
+              "returnPage": "1",
+              "returnPositionIndex": "returnPositionIndex1",
+              "valuePair": null
+            }
+          }
+        },
+        "fiUserIdList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "fiUserId": "fiUserId1"
+        },
+        "householdId": "householdId1",
+        "partyDateCreated": "1900-01-01",
+        "partyDateModified": "1900-01-01",
+        "partyDateDeleted": "1900-01-01",
+        "noteList": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "note": {
+            "noteId": "noteId1",
+            "recordType": "Account",
+            "noteCode": "noteCode1",
+            "noteText": "noteText1",
+            "noteCreatedDateTime": "1900-01-01T01:01:01Z",
+            "noteExpirationDate": "1900-01-01",
+            "noteCreator": "noteCreator1"
+          }
+        },
+        "customData": {
+          "currentPage": "1",
+          "totalPages": "1",
+          "pageSize": "1",
+          "positionIndex": "positionIndex1",
+          "returnPage": "1",
+          "returnPositionIndex": "returnPositionIndex1",
+          "valuePair": null
+        }
+      },
+      "questionId": "questionId1",
+      "choiceList": {
+        "currentPage": "1",
+        "totalPages": "1",
+        "pageSize": "1",
+        "positionIndex": "positionIndex1",
+        "returnPage": "1",
+        "returnPositionIndex": "returnPositionIndex1",
+        "choice": [
+          {
+            "choiceId": "choiceId1",
+            "choiceText": "choiceText1",
+            "customData": {
+              "currentPage": "1",
+              "totalPages": "1",
+              "pageSize": "1",
+              "positionIndex": "positionIndex1",
+              "returnPage": "1",
+              "returnPositionIndex": "returnPositionIndex1",
+              "valuePair": null
+            }
+          },
+          {
+            "choiceId": "choiceId2",
+            "choiceText": "choiceText2",
+            "customData": {
+              "currentPage": "-79228162514264337593543950335",
+              "totalPages": "-79228162514264337593543950335",
+              "pageSize": "-79228162514264337593543950335",
+              "positionIndex": "positionIndex2",
+              "returnPage": "-79228162514264337593543950335",
+              "returnPositionIndex": "returnPositionIndex2",
+              "valuePair": null
+            }
+          }
+        ]
+      },
+      "answerChoice": {
+        "choiceId": "choiceId1",
+        "choiceText": "choiceText1"
+      }
+    }
+  }
+}
