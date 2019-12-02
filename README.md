@@ -1,3 +1,3 @@
 # Note:
 
-The CUFX organization now hosts the [https://github.com/cufx/standard](CUFX standard on GitHub). Please use that instead!
+The CUFX organization now hosts the (CUFX standard on GitHub)[https://github.com/cufx/standard]. Please use that instead!
